@@ -1,3 +1,3 @@
 class Dog
-  @name = "Lassie"
+  @this_dogs_name = "Lassie"
 end
